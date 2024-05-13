@@ -1,0 +1,96 @@
+{
+    "hander": {
+        "name": "曹思禹",
+        "avatar":"https://q.qlogo.cn/g?b=qq&nk=1925489344&s=100",
+        "bg":"",
+        "theme":"#00c2ff",
+        "aWord": "上山打老虎",
+        "email": "1925489344@qq.com",
+        "bilibili": "526705631",
+        "qqid": "3519938785",
+        "gitee": "",
+        "github": ""
+    },
+    "content": [
+        {
+            "title": "个人信息",
+            "children": [
+                {
+                    "title": "学校&专业",
+                    "icon": "dark_mode",
+                    "children": [
+                        {
+                            "title": "延边大学",
+                            "content": "汉语言文学"
+                        }
+                    ]
+                },
+                {
+                    "title": "技能&000特长",
+                    "icon": "school",
+                    "children": [
+                        {
+                            "title": "11111",
+                            "content": "1111111"
+                        },
+                        {
+                            "title": "222222",
+                            "content": "222222"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "实习经历",
+            "children": [
+                {
+                    "title": "实习经历",
+                    "icon": "school",
+                    "children": [
+                        {
+                            "title": "延边大学",
+                            "content": "汉语言文学"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "作品展示",
+            "children": [
+                {
+                    "title": "前端开发作品",
+                    "icon": "school",
+                    "children": [
+                        {
+                            "title": "延边大学",
+                            "content": "汉语言文学"
+                        }
+                    ]
+                },
+                {
+                    "title": "剪辑作品",
+                    "icon": "school",
+                    "children": [
+                        {
+                            "title": "延边大学",
+                            "content": "汉语言文学"
+                        }
+                    ]
+                },
+                {
+                    "title": "平面设计作品",
+                    "icon": "school",
+                    "children": [
+                        {
+                            "title": "url",
+                            "content": "url",
+                            "url": "https://cn.bing.com/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
