@@ -11,7 +11,7 @@ import 'mdui/components/list-item.js';
 import 'mdui/components/list-subheader.js';
 import 'mdui/components/collapse.js';
 import 'mdui/components/collapse-item.js';
-
+import 'mdui/components/switch.js';
 
 // console.log(dataUrl);
 createApp(App).mount('#app')

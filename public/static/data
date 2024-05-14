@@ -5,11 +5,23 @@
         "bg":"https://www.toopic.cn/public/uploads/small/1704204478641170420447860.jpg",
         "theme":"#0178FF",
         "aWord": "枿坐云游出世尘，兼无瓶钵可随身。",
-        "email": "1925489344@qq.com",
-        "bilibili": "526705631",
-        "qqid": "1925489344",
-        "gitee": "Tzz-halo",
-        "github": "Tzz-halo"
+        "email": "cdd",
+        "bilibili": "",
+        "qqid": "",
+        "gitee": "",
+        "github": "",
+        "links":[
+            {
+                "title":"Test",
+                "url":"",
+                "icon":"account_balance"
+            },
+                        {
+                "title":"吃香蕉",
+                "url":"",
+                "icon":"catching_pokemon"
+            }
+        ]
     },
     "content": [
         {
