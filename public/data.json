@@ -1,15 +1,15 @@
 {
     "hander": {
-        "name": "曹思禹",
-        "avatar":"https://q.qlogo.cn/g?b=qq&nk=1925489344&s=100",
+        "name": "Tzz_Halo",
+        "avatar":"http://q.qlogo.cn/g?b=qq&nk=1925489344&s=100",
         "bg":"",
-        "theme":"#00c2ff",
-        "aWord": "上山打老虎",
+        "theme":"#0178FF",
+        "aWord": "枿坐云游出世尘，兼无瓶钵可随身。",
         "email": "1925489344@qq.com",
         "bilibili": "526705631",
-        "qqid": "3519938785",
-        "gitee": "",
-        "github": ""
+        "qqid": "1925489344",
+        "gitee": "Tzz-halo",
+        "github": "Tzz-halo"
     },
     "content": [
         {
@@ -17,25 +17,22 @@
             "children": [
                 {
                     "title": "学校&专业",
-                    "icon": "dark_mode",
+                    "icon": "school",
                     "children": [
                         {
                             "title": "延边大学",
-                            "content": "汉语言文学"
+                            "content": "20级-汉语言文学",
+                            "img":"https://www.ybu.edu.cn/__local/6/F6/E8/E8F63161245F9114B7C799E5627_11D91FC1_69CC.jpg?e=.jpg"
                         }
                     ]
                 },
                 {
-                    "title": "技能&000特长",
-                    "icon": "school",
+                    "title": "技能&特长",
+                    "icon": "auto_awesome",
                     "children": [
                         {
-                            "title": "11111",
-                            "content": "1111111"
-                        },
-                        {
-                            "title": "222222",
-                            "content": "222222"
+                            "title": "暂时没有更多...",
+                            "content": "暂时没有更多。"
                         }
                     ]
                 }
@@ -46,47 +43,133 @@
             "children": [
                 {
                     "title": "实习经历",
-                    "icon": "school",
+                    "icon": "work",
                     "children": [
                         {
-                            "title": "延边大学",
-                            "content": "汉语言文学"
+                            "title": "延边大学-安全保卫处",
+                            "content": "负责校园某大型安全软件开发及维护，同时还兼做部分文员类工作。"
+                        }
+                    ]
+                }
+            ]
+        },
+
+        {
+            "title": "作品展示",
+            "children": [
+                {
+                    "title": "前端开发作品",
+                    "icon": "html",
+                    "children": [
+                        {
+                            "title": "Personal homepage",
+                            "content": "使用Vue3和MDUI制作，页面数据来自于json文件。",
+                            "icon":"home"
+                        },
+                        {
+                            "title": "奇妙网站收藏✨",
+                            "content": "使用Vue3制作的模仿FUUN的网址集合站。",
+                            "url":"https://fun.sikong.top/"
+                        }, {
+                            "title": "模仿MIUI14设置UI界面",
+                            "content": "使用Vue3制作的模仿MIUI14设置UI界面。",
+                            "url":"https://gitee.com/Tzz-halo/vue-miui14-settings"
+                        }
+                    ]
+                },
+                {
+                    "title": "剪辑作品",
+                    "icon": "video_file",
+                    "children": [
+                        {
+                            "title": "反腐倡廉宣传片《止妄》",
+                            "content": "反腐倡廉宣传片《止妄》-点击访问bilibili观看",
+                            "url":"https://www.bilibili.com/video/BV1ZQ4y1U7Ux/?spm_id_from=333.999.0.0"
+                        },
+                        {
+                            "title": "App介绍宣传片",
+                            "content": "参加创新创业比赛自己做的App以及自己做的宣传视频。",
+                            "url":"https://www.bilibili.com/video/BV1qY411e7bF/"
+                        }
+                    ]
+                },
+                {
+                    "title": "平面设计作品",
+                    "icon": "photo_filter",
+                    "children": [
+                        {
+                            "title": "暂无",
+                            "content": "年代久远，暂未找到。"
                         }
                     ]
                 }
             ]
         },
         {
-            "title": "作品展示",
+            "title": "Link",
             "children": [
                 {
-                    "title": "前端开发作品",
-                    "icon": "school",
+                    "title": "博客/日志",
+                    "icon": "edit",
                     "children": [
                         {
-                            "title": "延边大学",
-                            "content": "汉语言文学"
+                            "title": "SIKONG.TOP",
+                            "content": "使用WordPress搭建的博客。",
+                            "url":"https://www.sikong.top/"
+                        }
+                    ]
+                },
+                                {
+                    "title": "工具站",
+                    "icon": "bubble_chart",
+                    "children": [
+                        {
+                            "title": "SIKONG Cloud",
+                            "content": "个人私有云盘。",
+                            "url":"https://pan.sikong.top/"
+                        },
+                        {
+                            "title": "Alist",
+                            "content": "使用Alist搭建的资源分享平台。",
+                            "url":"https://i.sikong.top/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Friends/小伙伴",
+            "children": [
+                {
+                    "title": "从小到大",
+                    "icon": "face_retouching_natural",
+                    "children": [
+                        {
+                            "title": "不会吧阿sir 👮",
+                            "url": "mqqapi://card/show_pslcard?src_type=internal&source=sharecard&version=1&uin=1849823112",
+                            "img":"http://q.qlogo.cn/g?b=qq&nk=1849823112&s=100"
+                        },
+                        {
+                            "title": "か ✨",
+                            "url": "mqqapi://card/show_pslcard?src_type=internal&source=sharecard&version=1&uin=1991209693",
+                            "img":"http://q.qlogo.cn/g?b=qq&nk=1991209693&s=100"
+
+                        },
+                        {
+                            "title": "鲨鱼辣椒 🦈",
+                            "url": "mqqapi://card/show_pslcard?src_type=internal&source=sharecard&version=1&uin=2469935663",
+                            "img":"http://q.qlogo.cn/g?b=qq&nk=2469935663&s=100"
                         }
                     ]
                 },
                 {
-                    "title": "剪辑作品",
-                    "icon": "school",
+                    "title": "👌同学",
+                    "icon": "menu_book",
                     "children": [
                         {
-                            "title": "延边大学",
-                            "content": "汉语言文学"
-                        }
-                    ]
-                },
-                {
-                    "title": "平面设计作品",
-                    "icon": "school",
-                    "children": [
-                        {
-                            "title": "url",
-                            "content": "url",
-                            "url": "https://cn.bing.com/"
+                            "title": "暂无",
+                            "content": "这里暂时什么都没有。",
+                            "url":""
                         }
                     ]
                 }

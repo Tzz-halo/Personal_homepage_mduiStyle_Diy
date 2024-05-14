@@ -7,10 +7,10 @@ const data=ref({
         "name": "Loading....",
         "avatar":"https://www.sikong.top/wp-content/uploads/2024/04/2.png",
         "aWord": "个人主页/简历/成果展示",
-        "theme":"#00c2ff",
-        "email": "1925489344@qq.com",
+        "theme":"#",
+        "email": "PowerByTzz@qq.com",
         "bilibili": "526705631",
-        "qqid": "3519938785",
+        "qqid": "1925489344",
         "gitee": "",
         "github": "",
         "bg":"",
@@ -98,8 +98,11 @@ getData()
                     <mdui-collapse-item v-for="i in item.children" :value="i.title">
                         <mdui-list-item slot="header" :icon="i.icon" end-icon="keyboard_arrow_down">{{ i.title
                             }}</mdui-list-item>
-                        <div v-for="x in i.children" style="margin-left: 2.5rem">
-                            <mdui-list-item :href="x.url" target="_blank" :description="x.content">{{ x.title
+                        <div v-for="x in i.children" style="margin-left: 1.5rem">
+                          
+                            <mdui-list-item rounded :icon="x.icon" :end-icon="x.endicon" :href="x.url" target="_blank"   :description="x.content">
+                              <mdui-avatar slot="icon" :src="x.img" v-if="x.img"></mdui-avatar>
+                            {{ x.title
                                 }}</mdui-list-item>
                         </div>
                     </mdui-collapse-item>
@@ -116,9 +119,10 @@ getData()
 <style scoped>
 .div_bg {
   height: 26rem;
-  width: 100%;
+  /* width: 100%; */
   padding-top: 4rem;
   padding-left: 2rem;
+  padding-right: 0.5rem;
   position: fixed;
   top: 0;
   left: 0;
