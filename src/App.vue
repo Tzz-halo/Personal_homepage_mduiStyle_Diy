@@ -2,11 +2,18 @@
 import { ref } from 'vue';
 import { setTheme } from 'mdui/functions/setTheme.js';
 import { setColorScheme } from 'mdui/functions/setColorScheme.js';
+
+const paramsStr = window.location.search
+const params = new URLSearchParams(paramsStr)
+const dataUrl="./static/"+params.get('key')
+
+
+// console.log(dataUrl);
 const data=ref({
     "hander": {
         "name": "Loading....",
         "avatar":"https://www.sikong.top/wp-content/uploads/2024/04/2.png",
-        "aWord": "个人主页/简历/成果展示",
+        "aWord": "请尝试参数是否正确",
         "theme":"#",
         "email": "PowerByTzz@qq.com",
         "bilibili": "526705631",
@@ -17,7 +24,7 @@ const data=ref({
     },})
 async function getData(){
   try {  
-        const response = await fetch('data.json'); // 等待 fetch 完成  
+        const response = await fetch(dataUrl); // 等待 fetch 完成  
         if (!response.ok) {  
           throw new Error(`HTTP error! status: ${response.status}`);  
         }  
@@ -119,7 +126,7 @@ getData()
 <style scoped>
 .div_bg {
   height: 26rem;
-  /* width: 100%; */
+  width: 100%;
   padding-top: 4rem;
   padding-left: 2rem;
   padding-right: 0.5rem;
