@@ -1,26 +1,16 @@
 {
     "hander": {
-        "name": "Tzz_Halo",
+        "name": "Tzz",
         "avatar":"http://q.qlogo.cn/g?b=qq&nk=1925489344&s=100",
         "bg":"https://www.toopic.cn/public/uploads/small/1704204478641170420447860.jpg",
         "theme":"#0178FF",
         "aWord": "枿坐云游出世尘，兼无瓶钵可随身。",
-        "email": "cdd",
+        "email": "sikong.top@outlook.com",
         "bilibili": "",
-        "qqid": "",
-        "gitee": "",
-        "github": "",
+        "qqid": "15352361963",
+        "gitee": "Tzz-halo",
+        "github": "Tzz-halo",
         "links":[
-            {
-                "title":"Test",
-                "url":"",
-                "icon":"account_balance"
-            },
-                        {
-                "title":"吃香蕉",
-                "url":"",
-                "icon":"catching_pokemon"
-            }
         ]
     },
     "content": [
@@ -33,7 +23,7 @@
                     "children": [
                         {
                             "title": "延边大学",
-                            "content": "20级-汉语言文学",
+                            "content": "20级",
                             "img":"https://www.ybu.edu.cn/__local/6/F6/E8/E8F63161245F9114B7C799E5627_11D91FC1_69CC.jpg?e=.jpg"
                         }
                     ]
@@ -58,8 +48,8 @@
                     "icon": "work",
                     "children": [
                         {
-                            "title": "延边大学-安全保卫处",
-                            "content": "负责校园某大型安全软件开发及维护，同时还兼做部分文员类工作。"
+                            "title": "暂时没有更多...",
+                            "content": "暂时没有更多..."
                         }
                     ]
                 }
@@ -80,8 +70,8 @@
                         },
                         {
                             "title": "奇妙网站收藏✨",
-                            "content": "使用Vue3制作的模仿FUUN的网址集合站。",
-                            "url":"https://fun.sikong.top/"
+                            "content": "[废弃]使用Vue3制作的模仿FUUN的网址集合站。",
+                            "url":"#"
                         }, {
                             "title": "模仿MIUI14设置UI界面",
                             "content": "使用Vue3制作的模仿MIUI14设置UI界面。",
@@ -111,7 +101,7 @@
                     "children": [
                         {
                             "title": "暂无",
-                            "content": "年代久远，暂未找到。"
+                            "content": "暂无"
                         }
                     ]
                 }
@@ -121,12 +111,12 @@
             "title": "Link",
             "children": [
                 {
-                    "title": "博客/日志",
+                    "title": "主页",
                     "icon": "edit",
                     "children": [
                         {
                             "title": "SIKONG.TOP",
-                            "content": "使用WordPress搭建的博客。",
+                            "content": "主页",
                             "url":"https://www.sikong.top/"
                         }
                     ]
@@ -136,14 +126,14 @@
                     "icon": "bubble_chart",
                     "children": [
                         {
-                            "title": "SIKONG Cloud",
+                            "title": "【废弃】SIKONG Cloud",
                             "content": "个人私有云盘。",
-                            "url":"https://pan.sikong.top/"
+                            "url":"#"
                         },
                         {
-                            "title": "Alist",
+                            "title": "【废弃】Alist",
                             "content": "使用Alist搭建的资源分享平台。",
-                            "url":"https://i.sikong.top/"
+                            "url":"#"
                         }
                     ]
                 }
